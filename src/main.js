@@ -83,13 +83,14 @@ document.querySelector("#app").innerHTML = `
         </div>
       </div>
 
-    <section id="projects">
+     <section id="projects">
       <div id="project-row">      
-      Assignment 2
+      Assignment 1
       </br>
-      Interoperability
+      Cadavre Exquis
         <div class="three-model">
-          <div id="model2"></div>
+    <a href="https://heidi-li-portfolio.vercel.app/exquisite-corpse.png" target="_blank">
+          <img src="./exquisite-corpse.png" id="model1" alt="Model 1 Image" />
         </div>
 
       <div id="images-description">
@@ -160,5 +161,5 @@ document.querySelector("#app").innerHTML = `
 
 // Create three.js scenes for each
 //createThreeScene("#model1", "/3DModels/project1/cube.obj");
-createThreeScene("#model2", "/3DModels/project2/olaf.obj");
+//createThreeScene("#model2", "/3DModels/project2/olaf.obj");
 //createThreeScene("#model3", "/3DModels/project3/cottage.obj");
