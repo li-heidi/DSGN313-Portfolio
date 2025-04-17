@@ -174,37 +174,37 @@ document.querySelector("#app").innerHTML = `
 
       <div id="images-description">
        <div id="images">
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page1.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process1.png" target="_blank">
           <img src="./templeProject/process1.png" alt="cube1" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page2.png" target="_blank">
+        <a href="https://https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process2.png" target="_blank">
           <img src="./templeProject/process2.png" alt="cube2" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page3.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process3.png" target="_blank">
           <img src="./templeProject/process3.png" alt="cube3" />
         </a>
         </div>
 
        <div id="images"> 
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page4.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process4.png" target="_blank">
           <img src="./templeProject/process4.png" alt="cube4" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page5.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process5.png" target="_blank">
           <img src="./templeProject/process5.png" alt="cube3" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page6.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process6.png" target="_blank">
           <img src="./templeProject/process6.png" alt="cube4" />
         </a>
         </div>
 
        <div id="images"> 
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page4.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process7.png" target="_blank">
           <img src="./templeProject/process7.png" alt="cube4" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page5.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process8.png" target="_blank">
           <img src="./templeProject/process8.png" alt="cube3" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page6.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/templeProject/process9.png" target="_blank">
           <img src="./templeProject/process9.png" alt="cube4" />
         </a>
         </div>
@@ -220,31 +220,89 @@ document.querySelector("#app").innerHTML = `
       </br>
       A4 continued
         <div class="three-model">
-    <a href="https://heidi-li-portfolio.vercel.app/exquisite-corpse.png" target="_blank">
+    <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/placeMaking.jpg" target="_blank">
           <img src="./placeMaking.jpg" id="model1" alt="Model 1 Image" />
         </div>
 
       <div id="images-description">
        <div id="images">
-        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging1.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop1.png"" target="_blank">
           <img src="./shopDrawings/shop1.png" alt="cube1" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging2.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop2.png" target="_blank">
           <img src="./shopDrawings/shop2.png" alt="cube2" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging3.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop3.png" target="_blank">
           <img src="./shopDrawings/shop3.png" alt="cube3" />
         </a>
         </div>
 
        <div id="images"> 
-        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging4.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop4.png target="_blank">
           <img src="./shopDrawings/shop4.png" alt="cube4" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging5.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop5.png" target="_blank">
           <img src="./shopDrawings/shop5.png" alt="cube3" />
         </a>
+      </div>
+
+          <h4 id="description"> 
+          </h4>
         </div>
+      </div>
+
+
+    <section id="projects">
+      <div id="project-row"> 
+      Assignment 5
+      </br>
+      Game Engines
+        <div class="three-model">
+          <div id="model5"></div>
+        </div>
+
+      <div id="images-description">
+       <div id="images">
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid1.png" target="_blank">
+          <img src="./gameEngines/game1.png" alt="cube1" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid2.png" target="_blank">
+          <img src="./gameEngines/game2.png" alt="cube2" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid3.png" target="_blank">
+          <img src="./gameEngines/game3.png" alt="cube3" />
+        </a>
+        </div>
+
+       <div id="images"> 
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid4.png" target="_blank">
+          <img src="./gameEngines/game4.png" alt="cube4" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid5.png" target="_blank">
+          <img src="./gameEngines/game5.png" alt="cube3" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid6.png" target="_blank">
+          <img src="./gameEngines/game6.png" alt="cube4" />
+        </a>
+        </div>
+
+       <div id="images"> 
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid4.png" target="_blank">
+          <img src="./gameEngines/game7.png" alt="cube4" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid5.png" target="_blank">
+          <img src="./gameEngines/game8.png" alt="cube3" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid6.png" target="_blank">
+          <img src="./gameEngines/game9.png" alt="cube4" />
+        </a>
+        </div>
+
+
+          <h4 id="description">inspired by my Exquisite Corpse that embodies higher entities of the unknown, Celestara brings the concept of inevitability into a galactic metaverse. Rather than a physical place on Earth, my scene explores consciousness in a virtual space where our questions remain with the freedom to adventure through an extraordinary themed gallery. It is a place I find myself when i am lost with accomplished reminders of my past achievements in the form of an immersive project display.
+          </h4>
+        </div>
+      </div>
 
       ${/* Model 2 commented out
       <div id="project-row">
@@ -286,3 +344,4 @@ document.querySelector("#app").innerHTML = `
 createThreeScene("#model2", "/3DModels/project2/olaf.obj");
 createThreeScene("#model3", "/3DModels/project3/clock.obj");
 createThreeScene("#model4", "/3DModels/project4/temple.obj");
+createThreeScene("#model5", "/3DModels/project5/scene.obj");
