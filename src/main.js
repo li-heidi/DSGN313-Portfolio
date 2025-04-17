@@ -20,11 +20,13 @@ const grids = [
   "./modelGrids/grid6.png",
 ];
 
-const Tagging = [
-  "./houseDrawings/house1.jpg",
-  "./houseDrawings/house2.jpg",
-  "./houseDrawings/house3.jpg",
-  "./houseDrawings/house4.jpg",
+const Design = [
+  "./objectDesign/page1.png",
+  "./objectDesign/page2.png",
+  "./objectDesign/page3.png",
+  "./objectDesign/page4.png",
+  "./objectDesign/page5.png",
+  "./objectDesign/page6.png",
 ];
 
 document.querySelector("#app").innerHTML = `
@@ -122,45 +124,127 @@ document.querySelector("#app").innerHTML = `
         </div>
       </div>
 
+
     <section id="projects">
       <div id="project-row">      
       Assignment 3
       </br>
       Object Design
         <div class="three-model">
-          <div id="model2"></div>
+          <div id="model3"></div>
         </div>
 
       <div id="images-description">
        <div id="images">
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid1.png" target="_blank">
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page1.png" target="_blank">
           <img src="./objectDesign/page1.png" alt="cube1" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid2.png" target="_blank">
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page2.png" target="_blank">
           <img src="./objectDesign/page2.png" alt="cube2" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid3.png" target="_blank">
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page3.png" target="_blank">
           <img src="./objectDesign/page3.png" alt="cube3" />
         </a>
         </div>
 
        <div id="images"> 
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid4.png" target="_blank">
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page4.png" target="_blank">
           <img src="./objectDesign/page4.png" alt="cube4" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid5.png" target="_blank">
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page5.png" target="_blank">
           <img src="./objectDesign/page5.png" alt="cube3" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid6.png" target="_blank">
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page6.png" target="_blank">
           <img src="./objectDesign/page6.png" alt="cube4" />
         </a>
         </div>
 
-          <h4 id="description">The analyzation of different models through import and export modifications transferring between Blender and Rhino. This included observing each model through a series of conversions between methods of 3D geometry representations. Additionally, the fabrication of a digital model allowed for physical outcomes via 3D printing and paper modelling. The character chosen to model was Olaf from Frozen paying careful detail to his form, structure, and features.
+          <h4 id="description">Derived from my Exquisite Corpse, The Hologram:  A Timeless Guide dives into the world of the unknown. Something that goes beyond earth, the object acts as a life guide for an individual where no path is unknown but rather destined to be. Never alone on a journey, The Hologram enables higher support giving strength to the individual.
+          </h4>
+        </div>
+      </div>
+    <section id="projects">
+      <div id="project-row">      
+      Assignment 4
+      </br>
+      Parallax Moderne
+        <div class="three-model">
+          <div id="model4"></div>
+        </div>
+
+      <div id="images-description">
+       <div id="images">
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page1.png" target="_blank">
+          <img src="./templeProject/process1.png" alt="cube1" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page2.png" target="_blank">
+          <img src="./templeProject/process2.png" alt="cube2" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page3.png" target="_blank">
+          <img src="./templeProject/process3.png" alt="cube3" />
+        </a>
+        </div>
+
+       <div id="images"> 
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page4.png" target="_blank">
+          <img src="./templeProject/process4.png" alt="cube4" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page5.png" target="_blank">
+          <img src="./templeProject/process5.png" alt="cube3" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page6.png" target="_blank">
+          <img src="./templeProject/process6.png" alt="cube4" />
+        </a>
+        </div>
+
+       <div id="images"> 
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page4.png" target="_blank">
+          <img src="./templeProject/process7.png" alt="cube4" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page5.png" target="_blank">
+          <img src="./templeProject/process8.png" alt="cube3" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page6.png" target="_blank">
+          <img src="./templeProject/process9.png" alt="cube4" />
+        </a>
+        </div>
+
+          <h4 id="description"> Derived from Julia’s corpse, the form takes influence from the art deco period where it emphasizes the underlying light within the brutality within the world. History has been violent yet in the present day, society is still filled with chaos and corruption. Through optimism, we can strive to find the light within the darkness. Taking this idea of hope and optimism, our form aims to create contrasting interior and exterior experiences while keeping the theme consistent. Rather than a typical form, the exterior is cold and dark leaving an eerie feeling while the interior is full of light and intricate patterns creating a welcoming atmosphere. Pulling elements from the exquisite corpse such as the stained glass and geometrical symmetry, allowed us to interconnect the art deco style with current design trends to create our inspired temple.
           </h4>
         </div>
       </div>
 
+    <section id="projects">
+      <div id="project-row">      
+    
+      </br>
+      A4 continued
+        <div class="three-model">
+    <a href="https://heidi-li-portfolio.vercel.app/exquisite-corpse.png" target="_blank">
+          <img src="./placeMaking.jpg" id="model1" alt="Model 1 Image" />
+        </div>
+
+      <div id="images-description">
+       <div id="images">
+        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging1.png" target="_blank">
+          <img src="./shopDrawings/shop1.png" alt="cube1" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging2.png" target="_blank">
+          <img src="./shopDrawings/shop2.png" alt="cube2" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging3.png" target="_blank">
+          <img src="./shopDrawings/shop3.png" alt="cube3" />
+        </a>
+        </div>
+
+       <div id="images"> 
+        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging4.png" target="_blank">
+          <img src="./shopDrawings/shop4.png" alt="cube4" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging5.png" target="_blank">
+          <img src="./shopDrawings/shop5.png" alt="cube3" />
+        </a>
+        </div>
 
       ${/* Model 2 commented out
       <div id="project-row">
@@ -201,3 +285,4 @@ document.querySelector("#app").innerHTML = `
 //createThreeScene("#model1", "/3DModels/project1/cube.obj");
 createThreeScene("#model2", "/3DModels/project2/olaf.obj");
 createThreeScene("#model3", "/3DModels/project3/clock.obj");
+createThreeScene("#model4", "/3DModels/project4/temple.obj");
