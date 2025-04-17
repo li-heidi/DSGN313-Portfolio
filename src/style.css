@@ -101,7 +101,8 @@ h1 {
   width: 380px;
   margin-right: 2em;
   margin-left: 6em;
-  margin-top: -6em;
+  margin-top: -16em;
+  margin-bottom: 1em;
   border: 1px solid #ffffff;
 }
 
@@ -109,7 +110,7 @@ h1 {
 img {
   /* Image dimensions and margin */
   height: 120px;
-  width: 155px;
+  width: 200px;
   margin: 0.5em;
 }
 
@@ -118,8 +119,8 @@ video {
   /* Video dimensions and margin */
   height: 300px;
   width: 380px;
-  margin-right: 22em;
-  margin-top: -4em;
+  margin-right: 31em;
+  margin-top: -15em;
   margin-bottom: 4em;
 }
 
@@ -141,11 +142,12 @@ video {
   overflow-y: scroll;
   overflow-x: hidden;
   font-weight: 100;
-  margin-left: 1em;
+  margin-left: 0.2em;
   margin-top: 1em;
+  margin-bottom: 2em;
   padding: 0.5em;
   background: rgb(255, 255, 255); /* Changes the color of the background of the text box */
-  border: 1px solid rgba(255, 182, 224, 0.825); /* Changes the color of the border of the text box */
+  border: 1px solid rgb(255, 255, 255); /* Changes the color of the border of the text box */
   box-sizing: border-box;
   
 }

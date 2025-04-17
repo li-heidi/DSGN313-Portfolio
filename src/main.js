@@ -29,6 +29,14 @@ const Design = [
   "./objectDesign/page6.png",
 ];
 
+const Drawings = [
+  "./shopDrawings/shop1.png",
+  "./shopDrawings/shop2.png",
+  "./shopDrawings/shop3.png",
+  "./shopDrawings/shop4.png",
+  "./shopDrawings/shop5.png",
+];
+
 document.querySelector("#app").innerHTML = `
   <main id="container">
     <section id="heading">
@@ -68,6 +76,18 @@ document.querySelector("#app").innerHTML = `
         </a>
         <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging6.png" target="_blank">
           <img src="./taggingCorpse/tagging6.png" alt="cube4" />
+        </a>
+        </div>
+
+       <div id="images">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
+          <img src="./white.jpg" alt="cube1" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging2.png" target="_blank">
+          <img src="./white.jpg" alt="cube2" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging3.png" target="_blank">
+          <img src="./white.jpg" alt="cube3" />
         </a>
         </div>
 
@@ -119,6 +139,18 @@ document.querySelector("#app").innerHTML = `
         </a>
         </div>
 
+       <div id="images">
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid1.png" target="_blank">
+          <img src="./white.jpg" alt="cube1" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid2.png" target="_blank">
+          <img src="./white.jpg" alt="cube2" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid3.png" target="_blank">
+          <img src="./white.jpg" alt="cube3" />
+        </a>
+        </div>
+
           <h4 id="description">The analyzation of different models through import and export modifications transferring between Blender and Rhino. This included observing each model through a series of conversions between methods of 3D geometry representations. Additionally, the fabrication of a digital model allowed for physical outcomes via 3D printing and paper modelling. The character chosen to model was Olaf from Frozen paying careful detail to his form, structure, and features.
           </h4>
         </div>
@@ -156,6 +188,18 @@ document.querySelector("#app").innerHTML = `
         </a>
         <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page6.png" target="_blank">
           <img src="./objectDesign/page6.png" alt="cube4" />
+        </a>
+        </div>
+      
+       <div id="images">
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page1.png" target="_blank">
+          <img src="./white.jpg" alt="cube1" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page2.png" target="_blank">
+          <img src="./white.jpg" alt="cube2" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page3.png" target="_blank">
+          <img src="./white.jpg" alt="cube3" />
         </a>
         </div>
 
@@ -246,7 +290,19 @@ document.querySelector("#app").innerHTML = `
         </a>
       </div>
 
-          <h4 id="description"> 
+       <div id="images">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop1.png"" target="_blank">
+          <img src="./white.jpg" alt="cube1" />
+        </a>
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop2.png" target="_blank">
+          <img src="./white.jpg" alt="cube2" />
+        </a>
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop3.png" target="_blank">
+          <img src="./white.jpg" alt="cube3" />
+        </a>
+        </div>
+
+      </br>
           </h4>
         </div>
       </div>
@@ -263,43 +319,43 @@ document.querySelector("#app").innerHTML = `
 
       <div id="images-description">
        <div id="images">
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid1.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game1.png" target="_blank">
           <img src="./gameEngines/game1.png" alt="cube1" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid2.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game2.png" target="_blank">
           <img src="./gameEngines/game2.png" alt="cube2" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid3.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game3.png" target="_blank">
           <img src="./gameEngines/game3.png" alt="cube3" />
         </a>
         </div>
 
        <div id="images"> 
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid4.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game4.png" target="_blank">
           <img src="./gameEngines/game4.png" alt="cube4" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid5.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game5.png" target="_blank">
           <img src="./gameEngines/game5.png" alt="cube3" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid6.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game6.png" target="_blank">
           <img src="./gameEngines/game6.png" alt="cube4" />
         </a>
         </div>
 
        <div id="images"> 
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid4.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game7.png" target="_blank">
           <img src="./gameEngines/game7.png" alt="cube4" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid5.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game8.png" target="_blank">
           <img src="./gameEngines/game8.png" alt="cube3" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid6.png" target="_blank">
+        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/gameEngines/game9.png" target="_blank">
           <img src="./gameEngines/game9.png" alt="cube4" />
         </a>
         </div>
 
 
-          <h4 id="description">inspired by my Exquisite Corpse that embodies higher entities of the unknown, Celestara brings the concept of inevitability into a galactic metaverse. Rather than a physical place on Earth, my scene explores consciousness in a virtual space where our questions remain with the freedom to adventure through an extraordinary themed gallery. It is a place I find myself when i am lost with accomplished reminders of my past achievements in the form of an immersive project display.
+          <h4 id="description">Inspired by my Exquisite Corpse that embodies higher entities of the unknown, Celestara brings the concept of inevitability into a galactic metaverse. Rather than a physical place on Earth, my scene explores consciousness in a virtual space where our questions remain with the freedom to adventure through an extraordinary themed gallery. It is a place I find myself when i am lost with accomplished reminders of my past achievements in the form of an immersive project display.
           </h4>
         </div>
       </div>
