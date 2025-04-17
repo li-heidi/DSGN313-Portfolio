@@ -122,6 +122,45 @@ document.querySelector("#app").innerHTML = `
         </div>
       </div>
 
+    <section id="projects">
+      <div id="project-row">      
+      Assignment 3
+      </br>
+      Object Design
+        <div class="three-model">
+          <div id="model2"></div>
+        </div>
+
+      <div id="images-description">
+       <div id="images">
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid1.png" target="_blank">
+          <img src="./objectDesign/page1.png" alt="cube1" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid2.png" target="_blank">
+          <img src="./objectDesign/page2.png" alt="cube2" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid3.png" target="_blank">
+          <img src="./objectDesign/page3.png" alt="cube3" />
+        </a>
+        </div>
+
+       <div id="images"> 
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid4.png" target="_blank">
+          <img src="./objectDesign/page4.png" alt="cube4" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid5.png" target="_blank">
+          <img src="./objectDesign/page5.png" alt="cube3" />
+        </a>
+        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid6.png" target="_blank">
+          <img src="./objectDesign/page6.png" alt="cube4" />
+        </a>
+        </div>
+
+          <h4 id="description">The analyzation of different models through import and export modifications transferring between Blender and Rhino. This included observing each model through a series of conversions between methods of 3D geometry representations. Additionally, the fabrication of a digital model allowed for physical outcomes via 3D printing and paper modelling. The character chosen to model was Olaf from Frozen paying careful detail to his form, structure, and features.
+          </h4>
+        </div>
+      </div>
+
 
       ${/* Model 2 commented out
       <div id="project-row">
@@ -161,4 +200,4 @@ document.querySelector("#app").innerHTML = `
 // Create three.js scenes for each
 //createThreeScene("#model1", "/3DModels/project1/cube.obj");
 createThreeScene("#model2", "/3DModels/project2/olaf.obj");
-//createThreeScene("#model3", "/3DModels/project3/cottage.obj");
+createThreeScene("#model3", "/3DModels/project3/clock.obj");
