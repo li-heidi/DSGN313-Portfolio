@@ -83,10 +83,10 @@ document.querySelector("#app").innerHTML = `
         <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube1" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging2.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube2" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/taggingCorpse/tagging3.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube3" />
         </a>
         </div>
@@ -140,13 +140,13 @@ document.querySelector("#app").innerHTML = `
         </div>
 
        <div id="images">
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid1.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube1" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid2.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube2" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/modelGrids/grid3.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube3" />
         </a>
         </div>
@@ -192,13 +192,13 @@ document.querySelector("#app").innerHTML = `
         </div>
       
        <div id="images">
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page1.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube1" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page2.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube2" />
         </a>
-        <a href="https://heidi-li-portfolio.vercel.app/objectDesign/page3.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube3" />
         </a>
         </div>
@@ -291,13 +291,13 @@ document.querySelector("#app").innerHTML = `
       </div>
 
        <div id="images">
-        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop1.png"" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg"" target="_blank">
           <img src="./white.jpg" alt="cube1" />
         </a>
-        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop2.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube2" />
         </a>
-        <a href="https://li-heidi-portfolio-git-main-li-heidis-projects.vercel.app/shopDrawings/shop3.png" target="_blank">
+        <a href="https://cdn.vectorstock.com/i/500p/92/91/surprise-sign-with-colorful-confetti-vector-16439291.jpg" target="_blank">
           <img src="./white.jpg" alt="cube3" />
         </a>
         </div>
@@ -355,7 +355,7 @@ document.querySelector("#app").innerHTML = `
         </div>
 
 
-          <h4 id="description">Inspired by my Exquisite Corpse that embodies higher entities of the unknown, Celestara brings the concept of inevitability into a galactic metaverse. Rather than a physical place on Earth, my scene explores consciousness in a virtual space where our questions remain with the freedom to adventure through an extraordinary themed gallery. It is a place I find myself when i am lost with accomplished reminders of my past achievements in the form of an immersive project display.
+          <h4 id="description">Inspired by my Exquisite Corpse that embodies higher entities of the unknown, Celestara brings the concept of inevitability into a galactic metaverse. Rather than a physical place on Earth, my scene explores consciousness in a virtual space where our questions remain with the freedom to adventure through an extraordinary themed gallery. It is a place I find myself when i am lost with accomplished reminders of my past achievements in the form of an immersive project display. The link to my spatial scene is https://www.spatial.io/s/Celestara-67fc223a72cf55d3b72516ed?share=6895184938276451507
           </h4>
         </div>
       </div>
